@@ -3,7 +3,7 @@ title: "Data Analysis with AI"
 subtitle: "A comprehensive course"
 ---
 
-![Gabor's Data Analysis with AI](images/gabors-data-analysis-with-ai.png)
+![Data Analysis with AI](DATA ANALYSIS WITH AI.png)
 
 ## What's this
 
