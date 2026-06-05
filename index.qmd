@@ -103,11 +103,6 @@ Case study: [Football Manager Interviews](case-studies/interviews/)
 
 [Content](unit5/)
 
-
-## Knowledge Base
-
-Reusable reference pages on APIs, tools setup, project design, and more — see the [Knowledge Base](navbar/resources.html). For further reading beyond the course, check the [beyond](da-knowledge/beyond.html) page.
-
 ---
 
 ## Rights and acknowledgement
