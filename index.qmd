@@ -3,7 +3,7 @@ title: "Data Analysis with AI"
 subtitle: "A comprehensive course"
 ---
 
-![Data Analysis with AI](DATA ANALYSIS WITH AI.png)
+![Data Analysis with AI](images/DATA ANALYSIS WITH AI.png)
 
 ## What's this
 
