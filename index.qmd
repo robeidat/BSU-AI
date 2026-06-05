@@ -48,7 +48,7 @@ By the end of the course, students will be able to
 
 ### Target audience
 
-The course is aimed primarily at ** faculty, graduate and advanced-undergraduate students** in economics, quantitative social science, political science, sociology, business analytics, and adjacent fields — students who have done a real econometrics or data-analysis course and now need to reset their practice around AI. 
+The course is aimed primarily at ** faculty, graduate and advanced-undergraduate students** in various disciplines such as economics, quantitative social science, political science, sociology, business analytics, and adjacent fields — faculty and students who have done some econometrics or data-analysis course and now need to reset their practice around AI. 
 
 
 ## Assignments
