@@ -9,7 +9,7 @@ date: "2026-06-01"
 
 ## What's this
 
-A course for students who already know **data analysis / econometrics** and want to seriously rework their practice around AI. The aim is not "tips and tricks": it is to spend a semester **building real things with AI as a teammate**, and to think honestly about where it helps, where it lies, and where it lets you do work you genuinely could not do alone.
+A course for faculty and students who already know some **data analysis / econometrics** and want to seriously rework their practice around AI. The aim is not "tips and tricks": it is to spend a semester **building real things with AI as a teammate**, and to think honestly about where it helps, where it lies, and where it lets you do work you genuinely could not do alone.
 
 As AI becomes more and more powerful, it is also important to provide a platform to **discuss human agency in data analysis**. A core role of the instructor is to lead that discussion across the term — what we delegate, what we keep, and how we stay accountable for the result.
 
@@ -32,37 +32,6 @@ At the end of all classes, instructors and students should always consider these
 2. How did AI **fail** me: gave half-truths, buggy code, imprecise arguments
 3. How did AI **extend** me: helped do things I could not, or gave new ideas
 
-
-## Course description
-
-### Content — the core course
-
-Weeks 1–5 cover using large language models (LLMs — ChatGPT, Claude, Gemini, Le Chat and others) to **carry out tasks in data analysis**: LLM and harness setup, a reproducible raw-data-to-report pipeline, reviewing and debugging AI's work, using AI as a research companion for controls/IV/DiD, and text-as-data on football interviews.
-
-Several **case studies** run across the material — simulated hotel data from Austria, the World Values Survey, US CPS earnings, football manager post-match interviews. There are practice **assignments** and a [learning-more collection](da-knowledge/beyond.html) with blogs, papers, and video recommendations.
-
-### Content — capstone
-
-A three-session team project on **manager changes in football**. Each team picks a country, builds a 10+ season match-and-manager panel, scrapes news around each change, uses an LLM API to score how *expected* each change was, then runs a difference-in-differences analysis with heterogeneity by manager type, team, and expectation.
-
-The capstone deliberately requires **three things students typically have not done**:
-
-1. **Web scraping at project scale** — RSS feeds, article pages, hundreds to thousands of items across sources and languages.
-2. **Text-as-data with LLM APIs** — designing a classification prompt, structured outputs, hand-validation against the model, cost and reproducibility.
-3. **Modern causal econometrics** — staggered DiD, event-study specifications, parallel-trends diagnostics, anticipation effects.
-
-The argument of the course is that **AI is what makes this scope realistic in three sessions** — and the capstone is where students prove that to themselves.
-
-### Background: data analysis / econometrics
-
-You need a background in **Data Analysis / Econometrics**, a good introductory course is enough. I, *of course*, suggest Chapters 1-12 and 19 of [Data Analysis for Business, Economics and Policy (Cambridge UP, 2021)](https://gabors-data-analysis.com/getting-started). Full slideshows, data and code are open source. But consider buying the book!🤝
-
-In particular, the course builds on [Chapters 1-6 and 7-10, and 19 and 22-24 of Data Analysis ](https://gabors-data-analysis.com/chapter-details/) but other Introductory Econometrics + basics of data science knowledge is ok.
-
-### Background: coding
-
-Students are expected to have some basic **coding knowledge** in Python or R (Stata also fine for the early weeks). The capstone is realistically Python or R only — scraping and API work in Stata is painful.
-
 ### Relevance
 
 AI is everywhere and has become essential, most analytic work will be using it. It's like the Internet a while back. Does not solve all problems, but almost all intellectual tasks will rely on inputs from it.
@@ -81,9 +50,7 @@ By the end of the course, students will be able to
 
 ### Target audience
 
-The course is aimed primarily at **graduate and advanced-undergraduate students** in economics, quantitative social science, political science, sociology, business analytics, and adjacent fields — students who have done a real econometrics or data-analysis course and now need to reset their practice around AI. The capstone in particular assumes you are willing to push past your current toolkit.
-
-The material is also designed to be **forkable by instructors**: all open source under CC BY-NC-SA, so teachers can pick weeks, swap case studies, and run their own version. Practitioners, researchers, and journalists with the background can absolutely go through it solo.
+The course is aimed primarily at ** faculty, graduate and advanced-undergraduate students** in economics, quantitative social science, political science, sociology, business analytics, and adjacent fields — students who have done a real econometrics or data-analysis course and now need to reset their practice around AI. 
 
 
 ## Assignments
@@ -137,17 +104,6 @@ Case study: [Football Manager Interviews](case-studies/interviews/)
 [Content](unit5/)
 
 
-## Capstone: three sessions — doing things you have never done
-
-A three-session team project on **manager changes in football**, deliberately scoped so that each session forces students into territory they have not been in before. Pick a country, build a 10+ season panel, score the news, run the causal design. — [Project description](capstone/)
-
-**Session 1 — Data collection & description.** Build a multi-table match-and-manager panel from messy public sources. Real entity resolution, real data quality work. — [Content](project01/)
-
-**Session 2 — From text to expectations (web scraping + LLM APIs).** Scrape news articles around each manager change, then use an LLM API to score how *expected* the change was. Prompt design, structured output, hand-validation, cost. — [Content](project02/)
-
-**Session 3 — Difference-in-Differences + final presentation.** Modern causal econometrics: staggered DiD, event-study, parallel-trends diagnostics, heterogeneity by manager / team / expectation. Honest presentation of what the data can and cannot say. — [Content](project03/)
-
-
 ## Knowledge Base
 
 Reusable reference pages on APIs, tools setup, project design, and more — see the [Knowledge Base](navbar/resources.html). For further reading beyond the course, check the [beyond](da-knowledge/beyond.html) page.
@@ -159,7 +115,5 @@ Reusable reference pages on APIs, tools setup, project design, and more — see 
 ### You can use it to teach and learn freely
 
 **Attribution**: Békés, Gábor: "Data Analysis with AI: a comprehensive course", available at [gabors-data-analysis.com/ai-course/](https://gabors-data-analysis.com/ai-course/), v2.2. 2026-05-01.
-
-You can fork it from the Github Repo.  [github.com/gabors-data-analysis/da-w-ai/](https://github.com/gabors-data-analysis/da-w-ai/)
 
 **License**: [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) -- share, attribute, non-commercial (contact me for corporate gigs)
