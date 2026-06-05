@@ -1,8 +1,6 @@
 ---
 title: "Data Analysis with AI"
 subtitle: "A comprehensive course"
-author: "[Gábor Békés](https://sites.google.com/site/bekesg/), Central European University (Austria, EU)"
-date: "2026-06-01"
 ---
 
 ![Gabor's Data Analysis with AI](images/gabors-data-analysis-with-ai.png)
