@@ -631,8 +631,6 @@ Storing and reusing processed prompts to reduce cost.
 
 ---
 
-**Version:** 0.4.1 | **Date:** 2026-02-17 | **Contact:** [bekesg@ceu.edu](mailto:bekesg@ceu.edu)
-
 <!-- 
 Document metadata:
 - Iterations with user: 2
