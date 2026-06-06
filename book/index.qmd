@@ -4,7 +4,7 @@ title: "Preface"
 
 # Preface {.unnumbered}
 
-This is the book companion of the open-source course **Doing Data Analysis with AI**. The course is taught at CEU in Vienna; the book takes the same material and lays it out as a single, linear path you can read on your own — from "what is an LLM?" to "I just shipped a reproducible causal-inference report with an AI teammate."
+This is the book companion of the open-source course **Doing Data Analysis with AI**. The book takes the same material and lays it out as a single, linear path you can read on your own — from "what is an LLM?" to "I just shipped a reproducible causal-inference report with an AI teammate."
 
 It is aimed at **social science students** — economics, political science, sociology, history, public policy — who already have an introductory data-analysis or econometrics course under their belt and some Python, and who now want to figure out how to make AI a daily collaborator without losing their judgement.
 
