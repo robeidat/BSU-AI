@@ -24,8 +24,6 @@ Thanks to Claude and ChatGPT — both for crafting course pages and simulated da
 
 Thanks to [Quarto](https://quarto.org/) and Posit, which power both the website and book versions of this material; and to GitHub for the home.
 
-Thanks to CEU's teaching grant, which paid the people and the AI.
-
 ## Repository and feedback
 
 Source repository: [github.com/gabors-data-analysis/da-w-ai](https://github.com/gabors-data-analysis/da-w-ai).
